@@ -6,7 +6,7 @@
 #define SOIL_PIN 2
 #define DHT_PIN 21
 #define DHT_TYPE DHT22
-#define LED_PIN 19
+#define LED_PIN 22
 
 // ===== 建立 DHT22 =====
 DHT dht(DHT_PIN, DHT_TYPE);
